@@ -2,6 +2,7 @@
 Pequeño programa en java que permite por un lado, conocer el valor de cambio en diferentes monedas, por otro, conocer dos funcionalidades básicas en materia de salud.
 
 Desde la pantalla principal se obtiene acceso a un menú en la esquina superior izquierda, donde se encontrarán dos opciones a saber:
+
 <img src="https://github.com/RobinsonVallejoCortes/conversormonedasysalud/blob/745c8f8a58e23e2bca020770d6548d1805773c16/Imagen1.png" alt="imagen 1" height="260" width="260">
 
 Conversor de monedas: permite conocer el equivalente en pesos, dólares u otras monedas.
